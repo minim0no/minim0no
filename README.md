@@ -128,6 +128,6 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=minim0no.minim0no&left_color=black&right_color=orange&left_text=%E0%B6%9E%20crewmates"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=minim0no.minim0no&left_color=black&right_color=orange&left_text=%E0%B6%9E%20imposters"  />
 
 ###
