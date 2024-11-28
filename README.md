@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">🧑‍🚀️ ex swe intern @ lockheed martin space<br>🎓 junior cs honors @ texas a&m<br>🤓 activities team lead @ tidaltamu<br>😾 i like cats</p>
+<p align="left">🧑‍🚀️ ex swe intern @ lockheed martin space<br>🎓 junior cs honors @ texas a&m<br>🤓 activities team lead @ tidaltamu<br>😼 i like cats<br>😾 i'm allergic to cats</p>
 
 ###
 
-<h2 align="left">connect w/ me</h2>
+<h2 align="left">connect w/ me</h2>x
 
 ###
 
