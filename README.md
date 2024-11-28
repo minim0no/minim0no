@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">connect w/ me</h2>x
+<h2 align="left">connect w/ me</h2>
 
 ###
 
