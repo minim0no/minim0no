@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧑‍🚀️ ex swe intern @ lockheed martin space<br>🎓 junior cs honors @ texas a&m<br>🤓 activities team lead @ tidaltamu<br>😼 i like cats<br>😾 i'm allergic to cats</p>
+<p align="left">💰 ex swe intern @ capital one<br>🧑‍🚀️ ex swe intern @ lockheed martin space<br>🎓 senior cs honors @ texas a&m<br>🤓 lead @ tidaltamu<br>😼 i like cats<br>😾 i'm allergic to cats</p>
 
 ###
 
@@ -122,12 +122,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=minim0no&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=minim0no.minim0no&left_color=black&right_color=orange&left_text=%E0%B6%9E%20imposters"  />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=minim0no.minim0no&left_color=black&right_color=orange&left_text=%E0%B6%9E%20stalkers"  />
 
 ###
