@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💰 ex swe intern @ capital one<br>🧑‍🚀️ ex swe intern @ lockheed martin space<br>🎓 senior cs honors @ texas a&m<br>🤓 lead @ tidaltamu<br>😼 i like cats<br>😾 i'm allergic to cats</p>
+<p align="left">💰 ex swe intern @ capital one<br>🧑‍🚀️ ex swe intern @ lockheed martin space<br>🎓 senior cs honors @ texas a&m<br>🤓 operations lead @ tidaltamu<br>😼 i like cats<br>😾 i'm allergic to cats</p>
 
 ###
 
